@@ -20,7 +20,7 @@
 <a href="https://fortran-lang.org//" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/qn/195777/svg/matlab-seeklogo.com.svg" alt="MATLAB" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> </a>  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
 </p>
