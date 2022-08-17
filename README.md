@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Mozhdehi Fard</h1>
 <h3 align="center">I have a master's in Fluid and Hydraulic Structures.</h3>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alifarrd&show_icons=true&locale=en&layout=compact" alt="Alifarrd" width="400" height="300" /></p>
 
 🔭 I am intrested in:
 - Numerical Modeling
 - Computational Fluid Dynamics
 - Machine Learning
 - Optimization Techniques
+
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
@@ -23,11 +25,6 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alifarrd&show_icons=true&locale=en&layout=compact" alt="Alifarrd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alifarrd&show_icons=true&locale=en" alt="Alifarrd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alifarrd" alt="Alifarrd" /></p>
 
 <!---
 Alifarrd/Alifarrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
