@@ -22,6 +22,13 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> </a>  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alifarrd&show_icons=true&locale=en&layout=compact" alt="Alifarrd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alifarrd&show_icons=true&locale=en" alt="Alifarrd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alifarrd" alt="Alifarrd" /></p>
+
 <!---
 Alifarrd/Alifarrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
