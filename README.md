@@ -2,7 +2,7 @@
 <h3 align="center"> I am a Fluid and Hydraulic Structures Engineer.</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alifarrd&show_icons=true&locale=en&layout=compact" alt="Alifarrd" width="400" height="300" /></p>
 
-🔭 I am intrested in:
+**🔭 I am intrested in:**
 - Numerical Modeling
 - Computational Fluid Dynamics
 - Machine Learning
