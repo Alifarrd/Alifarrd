@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Mozhdehi Fard</h1>
+<h1 align="center">Hi, I'm Ali</h1>
 <h3 align="center"> I am a Fluid and Hydraulic Structures Engineer.</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alifarrd&show_icons=true&locale=en&layout=compact" alt="Alifarrd" width="400" height="300" /></p>
 
